@@ -11,7 +11,7 @@ I'm working on my fast math library on c++. I'm currently learning python. Fun f
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tim2303&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tim2303&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim2303&theme=chartreuse-dark&hide=javascript&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim2303&theme=chartreuse-dark&hide=javascript&hide_border=true&count_private=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tim2303&limit=5&theme=dark&combine_all_yearly_contributions=true)
